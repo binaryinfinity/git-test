@@ -1,3 +1,2 @@
 Demo test
-This is the line of code should be reverted.
 Keep addling lines to the file.
